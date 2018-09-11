@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+ * math.c
+ *
+ * Created on: Sept 10, 2018
+ * Last Edited: Sept 10, 2018
+ * Author: Ian Nielsen
+ */
+
 int math(int num1, int num2, char Op);
 // num1: First number to be calculated
 // num2: Second number to be calculated
