@@ -1,7 +1,11 @@
 # Lab 0: Introduction to C, Git, and the MSP430
 
 Ian Nielsen
-Embedded Systems Section 4
+
+Embedded Systems 
+
+Section 4
+
 September 10, 2018
 
 ## Description
