@@ -1,5 +1,9 @@
 # Lab 0: Introduction to C and GIT
 
+Ian Nielsen
+Embedded Systems Section 4
+September 10, 2018
+
 ## Description
 
 This project is a simple calculator that that takes three inputs in the form:
@@ -59,6 +63,16 @@ Example Output:
 
 
 Operation above: 8 * 4 = 32
+
+## Valid Inputs/Outputs
+
+The inputs of this function within the code are:
+
+	num1, num2 & Op
+	
+The one output in the code is:
+
+	num3
 
 ## File Location
 
