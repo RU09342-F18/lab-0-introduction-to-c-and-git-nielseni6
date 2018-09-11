@@ -1,10 +1,10 @@
 This project is a simple calculator that that takes three inputs in the form:
 
-  'Number1' 'Operation' 'Number2'
+  \t'Number1' 'Operation' 'Number2'
   
 The first input that is asked for is the "Number1"
 
-  -This number must be an integer
+  \t-This number must be an integer
   
 The second input that is asked for is the "Number2"
 
