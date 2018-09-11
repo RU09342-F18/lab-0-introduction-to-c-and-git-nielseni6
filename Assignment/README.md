@@ -1,4 +1,6 @@
-# Description
+# Lab 0: Introduction to C and GIT
+
+## Description
 
 This project is a simple calculator that that takes three inputs in the form:
 
@@ -58,11 +60,11 @@ Example Output:
 
 Operation above: 8 * 4 = 32
 
-# File Location
+## File Location
 
 All files required to run this program are located within the Assignment folder along with this readme. The math function is created and called in the math.c file. There is a main function within the file that calls the math function.
 
-# Running Program
+## Running Program
 
 Copy code of math.c into a compiler. One option to use is an online compiler like the one here:
 https://www.tutorialspoint.com/compile_c_online.php
