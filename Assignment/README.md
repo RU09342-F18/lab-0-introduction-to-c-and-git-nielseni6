@@ -19,27 +19,27 @@ The third input that is asked for is the "Operation"
  	-Characters that work include:
   
   
-  => + Add (Number1 + Number2)           
+  		=> + Add (Number1 + Number2)           
   
-  => - Subtract (Number1 - Number2)      
+  		=> - Subtract (Number1 - Number2)      
   
-  => * Multiply (Number1 * Number2)      
+  		=> * Multiply (Number1 * Number2)      
   
-  => / Divide (Number1 / Number2)        
+  		=> / Divide (Number1 / Number2)        
   
-  => % Modulus (Number1 % Number2)       
+  		=> % Modulus (Number1 % Number2)       
   
-  => < Left Shift (Number1 << Number2)   
+  		=> < Left Shift (Number1 << Number2)   
   
-  => > Right Shift (Number1 >> Number2)  
+  		=> > Right Shift (Number1 >> Number2)  
   
-  => & Bitwise AND (Number1 & Number2)   
+  		=> & Bitwise AND (Number1 & Number2)   
   
-  => | Bitwise OR (Number1 | Number2)    
+  		=> | Bitwise OR (Number1 | Number2)    
   
-  => ^ Bitwise XOR (Number1 ^ Number2)   
+  		=> ^ Bitwise XOR (Number1 ^ Number2)   
   
-  => ~ Bitwise Inverse (~Number1)        
+  		=> ~ Bitwise Inverse (~Number1)        
   
   
 Once all three of these values are entered the answer is printed as an output.
