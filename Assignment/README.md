@@ -40,7 +40,7 @@ The third input that is asked for is the "Operation"
   => ~ Bitwise Inverse (~Number1)        
   
   
-Once all three of these values are entered the answer is printed as an output
+Once all three of these values are entered the answer is printed as an output.
 
 
 Example Output:
