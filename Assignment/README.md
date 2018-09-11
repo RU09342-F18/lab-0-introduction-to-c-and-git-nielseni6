@@ -14,7 +14,7 @@ The third input that is asked for is the "Operation"
 
   	-This value must be a single character
   
- 	 -Characters that work include:
+ 	-Characters that work include:
   
   
   => + Add (Number1 + Number2)           
@@ -45,13 +45,13 @@ Once all three of these values are entered the answer is printed as an output
 
 Example Output:
 
-Enter first number: 8
+	Enter first number: 8
 
-Enter second number: 4
+	Enter second number: 4
 
-Enter operator: *
+	Enter operator: *
 
-32
+	32
 
 
 Operation above: 8 * 4 = 32
