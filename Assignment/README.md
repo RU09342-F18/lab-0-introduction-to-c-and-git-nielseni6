@@ -1,4 +1,4 @@
-# Lab 0: Introduction to C and GIT
+# Lab 0: Introduction to C, Git, and the MSP430
 
 Ian Nielsen
 Embedded Systems Section 4
