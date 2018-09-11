@@ -1,6 +1,4 @@
 #include <stdio.h>
-#ifndef MATH_H_
-#define MATH_H_
 
 int math(int num1, int num2, char Op);
 // num1: First number to be calculated
@@ -81,4 +79,3 @@ int math(int num1, int num2, char Op){
 
  ;
 
-#endif /* MATH_H_ */
