@@ -26,6 +26,9 @@
 
 //Part of your documentation should be listing the valid inputs and outputs for the functions you create.
 int math(int num1, int num2, char Op);
+// num1: First number to be calculated
+// num2: Second number to be calculated
+// Op: Operation to be applied to num1 and num2
 int main()
 {
     int n1 = 8;     // First value to be entered into the math function
