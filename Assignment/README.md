@@ -1,3 +1,5 @@
+Description:
+
 This project is a simple calculator that that takes three inputs in the form:
 
 	'Number1' 'Operation' 'Number2'
